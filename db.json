@@ -5,13 +5,24 @@
             "contactId": "00000000-0000-0000-0000-000000000000",
             "forename": "Jimmy",
             "surname": "Jimson"
+        },
+        {
+            "id": 2,
+            "contactId": "00000000-0000-0000-0000-000000000001",
+            "forename": "Rob",
+            "surname": "Swanson"
         }
     ],
     "donations": [
         {
             "id": 1,
             "contactId": "00000000-0000-0000-0000-000000000000",
-            "amount": 0
+            "amount": 5
+        },
+        {
+            "id": 2,
+            "contactId": "00000000-0000-0000-0000-000000000001",
+            "amount": 10
         }
     ]
 }
