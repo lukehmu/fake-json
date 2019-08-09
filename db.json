@@ -1,6 +1,5 @@
 {
-    "contacts": [
-        {
+    "contacts": [{
             "id": 1,
             "contactId": "00000000-0000-0000-0000-000000000000",
             "forename": "Jimmy",
@@ -13,8 +12,7 @@
             "surname": "Swanson"
         }
     ],
-    "donations": [
-        {
+    "donations": [{
             "id": 1,
             "contactId": "00000000-0000-0000-0000-000000000000",
             "amount": 5
